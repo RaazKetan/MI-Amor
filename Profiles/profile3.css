@@ -1,5 +1,5 @@
 body {
-    background-color: #100a18;
+    background-color: #fafafa;
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -366,7 +366,7 @@ font-weight: 200;
 }
 .additional-info label
 {
-  color: white;
+  color: black;
 }
 #uname, #password, #height, #dob, #passion, #language, #looking
 {
@@ -387,7 +387,7 @@ font-weight: 200;
 }
 .show-me
 {
-  color: white;
+  color: black;
 }
 .switch {
   display: inline-block;
