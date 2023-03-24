@@ -1,5 +1,5 @@
 body {
-    background-color: #100a18;
+    background-color: #fafafa;
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -59,7 +59,7 @@ header {
     content: "";
     display: block;
     height: 2px;
-    background: #fff;
+    background: #000000;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0%;
   }
@@ -138,7 +138,7 @@ header {
   opacity: 0;
   font-size: 15px;
   background: transparent;
-  color: white;
+  color: rgb(0, 0, 0);
   will-change: transform;
   -webkit-transform: scale(.1);
           transform: scale(.1);
@@ -283,12 +283,12 @@ font-weight: 200;
     position: absolute;
     top: 43%;
     right: 20px;
-    color: #FFF;
+    color: #000000;
     transition: all linear 0.25s;
 }
 .profile-icons .fa {
     margin: 3px;
-    color: white;
+    color: rgb(0, 0, 0);
   
 }
 
@@ -372,7 +372,7 @@ font-weight: 200;
 }
 .additional-info label
 {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 #uname, #password, #height, #dob, #passion, #language, #looking
 {
@@ -393,7 +393,7 @@ font-weight: 200;
 }
 .show-me
 {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .switch {
   display: inline-block;
